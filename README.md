@@ -1,3 +1,9 @@
+## RUN Odoo Using Docker
+```
+cd odoo
+docker compose up -d
+```
+
 ## Login Information
 ```
 Database: database_odoo
